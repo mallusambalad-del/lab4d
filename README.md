@@ -1,1 +1,3 @@
 # lab4d
+USN:XYZ
+NAME:ABCD
